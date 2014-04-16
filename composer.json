@@ -1,0 +1,17 @@
+{
+	"name": "escaleno/zf1-escaleno",
+	"description": "Escaleno Library for Zend Framework 1",
+	"keywords": [
+		"framework",
+		"zf1",
+		"zend"
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"psr-0": {
+			"Escaleno": "library/"
+		}
+	}
+}
